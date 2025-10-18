@@ -3,7 +3,7 @@
 
 ## About
 
-- This repo contains the wallpapers for StratOS.
+- This repo contains the wallpapers for LUGVITC's cyber0day 4.0 CTF competition operating system.
 
 - Meant for use in [StratOS](https://github.com/StratOS-Linux/StratOS-ISO) (A Bedrock-derived distro made by Linux hobbyists)
 
