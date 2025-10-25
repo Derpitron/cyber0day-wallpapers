@@ -1,5 +1,5 @@
 
-# StratOS-wallpapers
+# cyber0day-wallpapers
 
 ## About
 
